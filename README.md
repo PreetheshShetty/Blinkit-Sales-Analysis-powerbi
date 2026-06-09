@@ -71,12 +71,12 @@ To analyze Blinkit's sales operations and identify opportunities to improve reve
    
 ## Author
 
-Preethesh Shetty
-# MBA (Finance)
-Power BI Portfolio Project
+-Preethesh Shetty
+-MBA (Finance)
+-Power BI Portfolio Project
 
 
 ## Dashboard Demo
 Watch the interactive dashboard:
 https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/Blinkit.pbix
-
+https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/Dashboard%20Overview.png
