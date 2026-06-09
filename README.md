@@ -27,7 +27,6 @@ The objective is to identify high-performing products, outlet types, and sales t
 
 ## Dataset Information
 https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx
-Records: 8,523
 
 Columns:
 
@@ -73,10 +72,11 @@ To analyze Blinkit's sales operations and identify opportunities to improve reve
 ## Author
 
 Preethesh Shetty
-MBA (Finance)
+# MBA (Finance)
 Power BI Portfolio Project
 
 
 ## Dashboard Demo
 Watch the interactive dashboard:
+https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/Blinkit.pbix
 
