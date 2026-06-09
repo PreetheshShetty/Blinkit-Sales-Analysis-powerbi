@@ -78,4 +78,4 @@ To analyze Blinkit's sales operations and identify opportunities to improve reve
 ## Dashboard Demo
 Watch the interactive dashboard:
 https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/Blinkit.pbix
-![Dashboard Overview](Dashboard%20Overview.png)
+![Dashboard Overview](https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/Dashboard%20Overview.png)
