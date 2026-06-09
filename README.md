@@ -16,7 +16,6 @@ The dashboard provides insights into:
 
 The objective is to identify high-performing products, outlet types, and sales trends to support business decision-making.
 
----
 
 ## Tools Used
 
@@ -24,8 +23,7 @@ The objective is to identify high-performing products, outlet types, and sales t
 - Microsoft Excel
 - DAX
 - Data Visualization
-
----
+  
 
 ## Dataset Information
 
@@ -46,7 +44,6 @@ Columns:
 - Sales
 - Rating
 
----
 
 ## Key Insights
 
@@ -57,13 +54,11 @@ Columns:
 - Customer rating analysis
 - Top performing product categories
 
----
 
 ## Business Objective
 
 To analyze Blinkit's sales operations and identify opportunities to improve revenue, customer satisfaction, and outlet performance.
 
----
 
 ## Author
 
