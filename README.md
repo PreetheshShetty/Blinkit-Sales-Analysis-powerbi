@@ -26,7 +26,8 @@ The objective is to identify high-performing products, outlet types, and sales t
   
 
 ## Dataset Information
-<https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx>
+
+📥 Download <https://github.com/PreetheshShetty/Blinkit-Sales-Analysis-powerbi/blob/main/BlinkIT%20Grocery%20Data.xlsx>
 
 Columns:
 
